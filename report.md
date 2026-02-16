@@ -1,1 +1,0 @@
-I learned how to clone my repository onto my local machine. I learned basic html structure as well as code. I've learned the basic workings of git and the worksapce through VS Code.
